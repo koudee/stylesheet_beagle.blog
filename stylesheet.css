@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+#g1{
+    color: black;
+    
+font-family: 'Inter', sans-serif;
+border: 2px;
+border-style: solid;
+box-sizing: border-box;
+font-size: 40px;
+line-height: 48.41px;
+padding: auto;
+flex-shrink: 0;
+}
+
+#gaa{
+    color: black;
+}
+#g2{
+   
+    font-family: 'Inter', sans-serif;
+    font-size: 40px;
+}
+#img1{
+    width: 1000px;
+    height: 800px;
+}
+#gb{
+    color: black;
+    display: block;
+}
+#g3{
+    font-size: 40px;
+    font-family: 'Inter', sans-serif;
+    line-height: 48px;
+
+}
