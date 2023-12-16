@@ -10,8 +10,13 @@ font-size: 40px;
 line-height: 48.41px;
 padding: auto;
 flex-shrink: 0;
+margin: 50px;
+padding: 25px;
 }
-
+#gap{
+    text-align: left;
+    line-height: 75px;
+}
 #gaa{
     color: black;
 }
@@ -19,9 +24,13 @@ flex-shrink: 0;
    
     font-family: 'Inter', sans-serif;
     font-size: 40px;
+    margin: 50px;
+padding: 25px;
+text-align: left;
+line-height: 75px;
 }
 #img1{
-    width: 1000px;
+    width: 1080px;
     height: 800px;
 }
 #gb{
@@ -32,5 +41,8 @@ flex-shrink: 0;
     font-size: 40px;
     font-family: 'Inter', sans-serif;
     line-height: 48px;
-
+    margin: 50px;
+padding: 25px;
+text-align: left;
+line-height: 75px;
 }
